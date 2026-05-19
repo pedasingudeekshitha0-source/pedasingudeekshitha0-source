@@ -4,7 +4,7 @@
 
 - 🌱 Currently learning HTML, Java and Problem Solving
 - 💻 Interested in Web Development & Android Development
-- 📫 Reach me: your-email@gmail.com
+- 📫 Reach me: pedasingudeekshitha0@gmail.com@gmail.com
 
 ## Skills
 - HTML
