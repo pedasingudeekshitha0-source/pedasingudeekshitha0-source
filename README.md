@@ -11,6 +11,7 @@
 
 <table>
 <tr>
+
 <td width="55%">
 
 ```java
@@ -30,6 +31,18 @@ class Deekshitha {
     String goal = "Software Engineer";
 
 }
+```
+
+</td>
+
+<td width="45%">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
+
+</td>
+
+</tr>
+</table>
 ```
 
 </td>
