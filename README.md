@@ -1,23 +1,23 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=180&section=header&text=Deekshitha%20Pedasingu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=170&section=header&text=Deekshitha%20Pedasingu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;IoT+%26+Web+Developer;Java+%26+Frontend+Developer;Aspiring+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;IoT+and+Web+Developer;Java+Developer;Aspiring+Software+Engineer" />
 
 </div>
 
 ---
 
-# 👋 Hi, I'm Deekshitha
+## 👋 About Me
 
-💻 B.Tech CSE Student  
-🚀 IoT & Web Developer  
-🌱 Building Web & IoT Projects  
-🎯 Aspiring Software Engineer
+- 💻 B.Tech CSE Student
+- 🚀 IoT & Web Developer
+- 🌱 Building Web and IoT Projects
+- 🎯 Preparing for Software Engineering Roles
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
 
@@ -27,40 +27,35 @@
 
 ---
 
-# 📌 Projects
+## 📌 Featured Projects
 
 ### 🌦 Weather App
 Responsive weather application using OpenWeather API and JavaScript.
 
-### ✅ To-Do List App
-Task management web app with local storage support.
+### 📋 Study Sprint Tracker
+Productivity web app for tracking study sessions and daily goals.
 
 ### 🌱 IoT Soil Moisture Monitoring System
-IoT-based agriculture monitoring system for farmers.
+IoT-based smart agriculture monitoring system for farmers.
+
+### 💼 Placement Preparation
+DSA problem solving repository using Java for coding interview preparation.
 
 ---
 
-# 📚 Placement Preparation
-
-🚀 Solving DSA problems in Java  
-📂 Arrays, Strings, Sorting, Searching  
-🎯 Preparing for coding interviews and placements
-
----
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pedasingudeekshitha0-source&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=pedasingudeekshitha0-source&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pedasingudeekshitha0-source&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pedasingudeekshitha0-source&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔗 Connect With Me
+## 🔗 Connect With Me
 
 <p align="center">
 
