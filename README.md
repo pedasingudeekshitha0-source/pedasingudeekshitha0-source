@@ -7,12 +7,8 @@
 </div>
 
 ---
+
 <h2> 👩‍💻 About Me </h2>
-
-<table>
-<tr>
-
-<td width="55%">
 
 ```java
 class Deekshitha {
@@ -31,30 +27,6 @@ class Deekshitha {
     String goal = "Software Engineer";
 
 }
-```
-
-</td>
-
-<td width="45%">
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
-
-</td>
-
-</tr>
-</table>
-```
-
-</td>
-
-<td width="45%">
-
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
-
 ```
 
 ---
