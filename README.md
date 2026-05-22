@@ -1,37 +1,25 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0f172a&height=190&section=header&text=Deekshitha%20Pedasingu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Deekshitha%20Pedasingu&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;IoT+and+Web+Developer;Java+Developer;Aspiring+Software+Engineer" />
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student;IoT+and+Web+Developer;Java+Developer;Aspiring+Software+Engineer"/>
 
 </div>
 
 ---
 
-<h2> 👩‍💻 About Me </h2>
+## 🔗 About Me
 
-```java
-class Deekshitha {
-
-    String role = "B.Tech CSE Student";
-    String focus = "IoT & Web Development";
-
-    String[] skills = {
-        "Java",
-        "Python",
-        "JavaScript",
-        "HTML",
-        "CSS"
-    };
-
-    String goal = "Software Engineer";
-
-}
-```
+- 💻 B.Tech CSE Student  
+- 🌱 IoT & Web Developer  
+- 🚀 Building Web and IoT Projects  
+- 🎯 Preparing for Software Engineering Roles  
 
 ---
 
-<h2> ⚒️ Tech Stack </h2>
+## ⚒️ Tech Stack
 
 <p align="center">
 
@@ -39,21 +27,9 @@ class Deekshitha {
 
 </p>
 
-<br>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-0f172a?style=for-the-badge&logo=javascript"/>
-
-<img src="https://img.shields.io/badge/Programming-Java%20%7C%20Python-0f172a?style=for-the-badge&logo=java"/>
-
-<img src="https://img.shields.io/badge/Tools-Git%20%7C%20GitHub%20%7C%20VSCode-0f172a?style=for-the-badge&logo=github"/>
-
-</p>
-
 ---
 
-<h2> 🚀 Featured Projects </h2>
+## 📌 Featured Projects
 
 ### 🌦 Weather App
 Responsive weather application using OpenWeather API and JavaScript.
@@ -69,7 +45,7 @@ DSA problem solving repository using Java for coding interview preparation.
 
 ---
 
-<h2> 📈 GitHub Statistics </h2>
+## 📊 GitHub Statistics
 
 <p align="center">
 
@@ -83,23 +59,13 @@ DSA problem solving repository using Java for coding interview preparation.
 
 <p align="center">
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=pedasingudeekshitha0-source&theme=tokyo-night&hide_border=true"/>
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=pedasingudeekshitha0-source&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-<h2> 🐍 Contribution Snake </h2>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/pedasingudeekshitha0-source/pedasingudeekshitha0-source/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-<h2> 🌐 Connect With Me </h2>
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -117,6 +83,6 @@ DSA problem solving repository using Java for coding interview preparation.
 
 <div align="center">
 
-### ⭐ Consistently Building Projects & Improving Coding Skills ⭐
+⭐ Consistently Building Projects & Improving Coding Skills ⭐
 
 </div>
